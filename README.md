@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablo-jph
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning pyhton, Javascript
+- 🌱 I’m currently learning pyhton, DataScience
 - 💞️ I’m looking to collaborate on Pyhton
 - 📫 How to reach me: pablo.jph@gmail.com
 
